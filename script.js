@@ -59,7 +59,6 @@ const activeHeader = function () {
 addEventOnelem(window, "scroll", activeHeader);
 
 
-
 /**
  * filter tab
  */
